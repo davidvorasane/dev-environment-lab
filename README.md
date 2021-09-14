@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/dkm0Rp7)
+![screenshot](https://imgur.com/9pNDDV1)
 
 # dev-environment-lab
 
